@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "Aternos24-7-HostingBot",
+    "port": 38382,
     "version": "",
     "try-creative": false
   },
